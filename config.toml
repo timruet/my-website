@@ -11,15 +11,14 @@ hasCJKLanguage = true
     unsafe = true # Allow user HTML tags
 
 [params]
-    author = "Your Name"
-    avatar = "avatar.jpg"
+    author = "Tim Ruettinger"
+    avatar = "~/Documents/Career/Applications/ProfilePic.jpeg"
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
     description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
+        Mathematics graduate, traveller and fantasy book author
     """
-    publicationYear = "2019"
+    publicationYear = "2023"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
     # custom_css = ["/css/custom.css"]
@@ -30,12 +29,12 @@ hasCJKLanguage = true
     section = ["JSON", "HTML"]
     term = ["JSON", "HTML"]
 
-[[menu.main]]
-    identifier = "blog"
-    # name = "Blog" #If display text link, cancel comment out
-    pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
-    url = "/blog/"
-    weight = 10
+#[[menu.main]]
+#    identifier = "blog"
+#    # name = "Blog" #If display text link, cancel comment out
+#    pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
+#    url = "/blog/"
+#    weight = 10
 
 [[menu.main]]
     identifier = "twitter"
@@ -48,12 +47,12 @@ hasCJKLanguage = true
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/username"
+    url = "https://github.com/timruet"
     weight = 30
 
 [[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:username@example.com"
+    url = "mailto:tr.timruettinger@gmail.com"
     weight = 40
