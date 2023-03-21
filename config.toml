@@ -14,7 +14,7 @@ hasCJKLanguage = true
     author = "Tim Ruettinger"
     avatar = "avatar.jpeg"
     # avatarDescription = "My avatar description"
-    favicon = "avatar.ico"
+    favicon = "favicon.ico"
     description = """
         Mathematics graduate, traveller and fantasy book author
     """
@@ -36,12 +36,12 @@ hasCJKLanguage = true
 #    url = "/blog/"
 #    weight = 10
 
-[[menu.main]]
-    identifier = "twitter"
-    # name = "Twitter"
-    pre = "<i class='fab fa-twitter fa-lg'></i>"
-    url = "https://twitter.com/username"
-    weight = 20
+#[[menu.main]]
+#    identifier = "twitter"
+#    # name = "Twitter"
+#    pre = "<i class='fab fa-twitter fa-lg'></i>"
+#    url = "https://twitter.com/username"
+#    weight = 20
 
 [[menu.main]]
     identifier = "github"
