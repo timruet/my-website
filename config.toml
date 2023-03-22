@@ -12,9 +12,9 @@ hasCJKLanguage = true
 
 [params]
     author = "Tim Ruettinger"
-    avatar = "avatar.jpeg"
+    avatar = "ProfilePic.jpeg"
     # avatarDescription = "My avatar description"
-    favicon = "favicon.ico"
+    favicon = "ProfilePic.ico"
     description = """
         Mathematics graduate, traveller and fantasy book author
     """
