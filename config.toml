@@ -50,12 +50,12 @@ hasCJKLanguage = true
     url = "https://github.com/timruet"
     weight = 30
 
-[[menu.main]]
-    identifier = "email"
-    # name = "Email"
-    pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:tr.timruettinger@gmail.com"
-    weight = 40
+#[[menu.main]]
+#    identifier = "email"
+#    # name = "Email"
+#    pre = "<i class='fa fa-envelope fa-lg'></i>"
+#    url = "mailto:tr.timruettinger@gmail.com"
+#    weight = 40
 
 #[[menu.main]]
 #    identifier = "Linkedin"
