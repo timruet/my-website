@@ -60,7 +60,7 @@ hasCJKLanguage = true
 [[menu.main]]
     identifier = "Linkedin"
     # name = "Linkedin"
-    pre = "<i class='fa fa-linkedin fa-lg'></i>"
+    pre = "<i class='fab fa-linkedin fa-lg'></i>"
     url = "https://www.linkedin.com/in/tim-ruettinger-09ab62269"
     weight = 40
 
