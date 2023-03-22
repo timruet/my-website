@@ -36,12 +36,12 @@ hasCJKLanguage = true
 #    url = "/blog/"
 #    weight = 10
 
-#[[menu.main]]
-#    identifier = "twitter"
-#    # name = "Twitter"
-#    pre = "<i class='fab fa-twitter fa-lg'></i>"
-#    url = "https://twitter.com/username"
-#    weight = 20
+[[menu.main]]
+    identifier = "twitter"
+    # name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/TimRuettinger"
+    weight = 20
 
 [[menu.main]]
     identifier = "github"
@@ -56,3 +56,12 @@ hasCJKLanguage = true
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:tr.timruettinger@gmail.com"
     weight = 40
+
+[[menu.main]]
+    identifier = "Linkedin"
+    # name = "Linkedin"
+    pre = "<i class='fa fa-linkedin fa-lg'></i>"
+    url = "https://www.linkedin.com/in/tim-ruettinger-09ab62269"
+    weight = 40
+
+
