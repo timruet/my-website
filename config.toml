@@ -16,7 +16,7 @@ hasCJKLanguage = true
     # avatarDescription = "My avatar description"
     favicon = "Pic.ico"
     description = """
-        Mathematics graduate, traveller and fantasy book author
+        Software Engineering, Mathematics, Creative Writing
     """
     publicationYear = "2023"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
